@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Data files (keep sample templates if any, ignore large generated files)
+backend/data/*.xlsx
+backend/data/*.csv
+retail-intelligence/backend/data/*.xlsx
+retail-intelligence/backend/data/*.csv
+
+# Node & Build artifacts
+node_modules/
+dist/
+build/
+.cache/
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
