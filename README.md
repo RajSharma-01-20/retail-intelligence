@@ -27,3 +27,8 @@ Open [http://localhost:5173](http://localhost:5173)
 ---
 
 Please see [`retail-intelligence/README.md`](./retail-intelligence/README.md) for complete architecture, ML engine details, API documentation, and dataset configuration.
+
+## Project presentation
+
+- [Presentation deck](./presentations/retail-intelligence-practical-v2.pptx)
+- [Demo retail dataset](./retail-intelligence/demo-retail-upload.csv)
